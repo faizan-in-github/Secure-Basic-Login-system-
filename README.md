@@ -1,2 +1,2 @@
-# Secure-Basic-Login-system-
-Developed a secure login system with bcrypt salting, ensuring robust password hashing for enhanced user authentication and data protection.
+# Secure-Basic-Login-system
+"Implemented a secure login system utilizing HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, Mongoose, and Bcrypt technologies. The project incorporates bcrypt salting to enhance password hashing, ensuring a robust authentication mechanism with data protection measures."
